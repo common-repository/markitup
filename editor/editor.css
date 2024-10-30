@@ -1,0 +1,23 @@
+.markdown_editor{
+	width: 100%;
+	outline: none;
+	border: none;
+}
+.editor .hl{
+	background: #d6f0f9;
+}
+.editor .bold{
+	background: #DDD;
+}
+.editor .quote{
+	background: #ffdd99;
+}
+.editor .code{
+	background: #d6ea99
+}
+.editor .label{
+	background: #e5d1ef;
+}
+.editor .url{
+	background: #d5d1ef;
+}
